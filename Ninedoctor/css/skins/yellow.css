@@ -1,0 +1,252 @@
+/* --------------------- 
+	Skinks styles 
+	--------------------- */
+/* --- Backgrounds  --------------------- */
+::-moz-selection {
+  background-color: #f8ba01;
+}
+::-webkit-selection {
+  background-color: #f8ba01;
+}
+::-o-selection {
+  background-color: #f8ba01;
+}
+::-khtml-selection {
+  background-color: #f8ba01;
+}
+::-ms-selection {
+  background-color: #f8ba01;
+}
+::selection {
+  background-color: #f8ba01;
+}
+.generalLink:hover,
+.bordered:hover,
+.darkSection .generalLink,
+.accentSection,
+.socialNav > li a:hover,
+.accordianShortCode .triggerRow > a.activeLine:before,
+.accordianShortCode .triggerRow > span.activeLine:before,
+.progress .progress-bar,
+.owl-dot:hover span,
+.owl-dot.active span,
+.fancy-select select:focus + .trigger.open,
+.fancy-select select + .trigger:hover,
+.fancy-select .trigger.open,
+.fancy-select ul.options li.selected,
+.fancy-select ul.options li.hover,
+.captions .links a.details:hover,
+.captions .links a.join,
+.owl-controls .owl-nav div:hover,
+.slider .owl-dot.active,
+.slider.owl-dot:hover,
+.logo a .square,
+.mainNav .navTabs > li .dropDown li:hover > a,
+.mainNav .navTabs > li .dropDown li:hover > button,
+.mainNav .navTabs > li:hover > a,
+.mainNav .navTabs > li:hover > button,
+.mainNav .navTabs .register .formWrapper form button,
+.mainNav .navTabs .register .formWrapper form input[type="submit"],
+.mainNav .navTabs .login a,
+.mainNav .navTabs .login > button,
+.mainNav .navTabs .login .opened,
+.mainNav .navTabs .login .formWrapper,
+.mainNav .navTabs .menuSocial a:hover,
+.singleService .serviceIcon .servicesIconBase,
+.singleService a:hover,
+.singleService3 .readMore,
+.pricingTable .pricingHeader,
+.pricingTable .pricingBody li .orderNow,
+.singleFeature:hover .featureIcon,
+.singleFeature3 .featureIcon,
+.domainSearchForm .formSearchUl > li:last-child button,
+.dd .ddArrow,
+.teamMemberWrapper:hover .memberAvatar,
+.teamMemberWrapper .memberSocial a,
+.post .postContents .postIcon,
+.postSlider .owl-controls .owl-nav div:hover,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li:last-child a:hover,
+.pagination > li:first-child a:hover,
+.tweets,
+.sideSearch button,
+.sideSearch input[type="submit"],
+.singleComment,
+.add-send form button,
+.add-send form input[type="submit"],
+.modal .close,
+.modal .shareBtns,
+.testmonialsCarousel3 .owl-controls .owl-nav div:hover,
+.testmonials2 .owl-controls .owl-nav div:hover,
+.testmonials4 .owl-dot.active span,
+.testmonials4 .owl-dot:hover span,
+.testmonials4 .owl-dot span:hover,
+.clientsCarousel .owl-controls .owl-nav div:hover,
+.portfolioFilters li span,
+.bottomFooter .footerSocial .socialNav li a:hover,
+.homeSlider_2 .captions .links a,
+.style-4 .header .scrollHeaderWrapper .login .formSwitcher.bordered:hover,
+.style-4 .header .scrollHeaderWrapper .login .formSwitcher.bordered.opened,
+.style-4 .slider .owl-controls .owl-dots .owl-dot:hover span,
+.style-4 .slider .owl-controls .owl-dots .owl-dot.active span,
+.style-4 .pricingTable .pricingPerMonth .generalLink,
+.style-5 .header .scrollHeaderWrapper .register .formSwitcher.opened,
+.style-5 .header.fixedHeader .mainNav .navTabs > li.login .formSwitcher,
+.style-5 .header.fixedHeader .mainNav .navTabs > li.login .formSwitcher.opened,
+.style-6 .topMenu .socialNav > li a:hover,
+.style-6 .topMenu .fancy-select .trigger:hover,
+.style-6 .mainSlider .captions .links a.join:hover,
+.newsletter form button,
+.newsletter form input[type="submit"],
+.socialList.solid li a,
+.tabsContainer,
+.etabs a:hover,
+.etabs .active a,
+.singleTab,
+.alert-info,
+.messagePanel,
+.formArea .generalBtn,
+.formArea input[type="submit"],
+.switcher .switcherShowHide,
+.switcher .switcherContents header,
+.back-to-top,
+#responsiveMainNavToggler.opened,
+.style-5 #responsiveMainNavToggler,
+.responsiveMainNav > ul.navTabs > li a:hover,
+.responsiveMainNav > ul.navTabs > li > button:hover,
+.responsiveMainNav > ul.navTabs > li .toggleResponsive.activeLine,
+.mainNav .navTabs .login .formWrapper li h5 i,
+.mainNav .navTabs .login .formWrapper form button:hover,
+.mainNav .navTabs .login .formWrapper form input[type="submit"]:hover,
+.mainNav .navTabs > li .active,
+.mainNav .navTabs > li .dropDown li .active,
+.responsiveMainNav > ul.navTabs > li .active {
+  background-color: #f8ba01;
+}
+/* fades */
+.post .postMeta li .metaContent {
+  background-color: rgba(248, 186, 1, 0.85);
+}
+.sideSearch input,
+.shareBtns {
+  background-color: rgba(248, 186, 1, 0.2);
+}
+.project .caption {
+  background-color: rgba(248, 186, 1, 0.5);
+}
+/* --- Bachground Images  --------------------- */
+.pricingTable .pricingIcon {
+  background-image: url('../../images/plan-icon-yellow.png');
+}
+.fact .factIcon1 {
+  background-image: url('../../images/fact-1-yellow.png');
+}
+.fact .factIcon2 {
+  background-image: url('../../images/fact-2-yellow.png');
+}
+.fact .factIcon3 {
+  background-image: url('../../images/fact-3-yellow.png');
+}
+.fact .factIcon4 {
+  background-image: url('../../images/fact-4-yellow.png');
+}
+/* --- colors  --------------------- */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.bordered,
+.darkSection .generalLink:hover,
+.sectionTitle .sectionHeader,
+.accordianShortCode .triggerRow > a:hover,
+.accordianShortCode .triggerRow > a.activeLine,
+.accordianShortCode .triggerRow > span.activeLine,
+.topContact ul li a:hover,
+.logo a .text,
+.singleService3 .serviceName,
+.pricingTable .pricingBody li span,
+.table-bordered td:nth-child(3),
+.table-bordered td:nth-child(4),
+.table-bordered td:nth-child(5),
+.singleFeature .featureIcon,
+.singleFeature .featureName a,
+.singleFeature3 .featureName a:hover,
+.department .departBody p a,
+.department .departBody .title,
+.domainSearchForm .formSearchUl > li:first-child input,
+.dd .ddTitle .ddTitleText .ddlabel,
+.teamMemberWrapper .memberName a,
+.fact .factTitle a,
+.post .postContents .postTitle a,
+.sideSearch input,
+.list li a:hover,
+#ticker .postTitle a,
+.add-send form input,
+.add-send form textarea,
+.add-send .sendMessageForm input:focus,
+.add-send .sendMessageForm textarea:focus,
+.singleTestmonial .testmonialsBottomContents .userName,
+.testmonials2 .testmonialsTopContents blockquote p,
+.testmonials2 .testmonialsTopContents blockquote p:before,
+.testmonials2 .testmonialsTopContents blockquote p:after,
+.testmonials2 .testmonialsBottomContents .userName:hover,
+.testmonials3 .testmonialsBottomContents .userWebsite:hover,
+.testmonials4 .singleTestmonial .testmonialsTopContents blockquote p,
+.project .projectName a,
+.proud .description h3,
+.topFooter .footerWidget .footerWidgetHeader,
+.topFooter .footerWidget .footerLinksList li a:hover,
+.topFooter .footerWidget .getInTouchList li span a,
+.bottomFooter .copyrights p a:hover,
+.homeSlider_2 .owl-controls .owl-nav div:hover,
+.aboutBox .aboutBoxBody .triggerRow > a,
+.aboutBox .aboutBoxBody .singleOffer .offerTitle a,
+.style-4 .header .scrollHeaderWrapper .login .formSwitcher.bordered,
+.style-4 .pricingTable .pricingPerMonth .generalLink:hover,
+.style-6 .mainSlider .captions .links a.join,
+.breadcrumb li a,
+.newsletter form input,
+.blockquoteP blockquote a,
+.blockquoteP blockquote:before,
+.dropcapAccent .dropcap,
+.flip-clock-divider .flip-clock-label,
+.mainNav .navTabs .login .formWrapper .register a:hover,
+.formArea .generalLink:hover {
+  color: #f8ba01;
+}
+/* --- Borders  --------------------- */
+/* border */
+.bordered,
+.bordered:hover,
+.owl-dot:hover span,
+.owl-dot.active span,
+.topContact ul li,
+.singleService .serviceIcon,
+.pricingTable .pricingHeader,
+.singleFeature:hover .featureIcon,
+.department .departHeader,
+.teamMemberWrapper .memberAvatar,
+.teamMemberWrapper .memberAvatar img,
+.widget .widgetHeader,
+.tweets,
+.add-send form input,
+.add-send form textarea,
+.add-send .sendMessageForm input:focus,
+.add-send .sendMessageForm textarea:focus,
+.aboutBox .aboutBoxHeader,
+.style-4 .header .scrollHeaderWrapper .login .formSwitcher.bordered,
+.style-4 .slider .owl-controls .owl-dots .owl-dot:hover span,
+.style-4 .slider .owl-controls .owl-dots .owl-dot.active span,
+.mainNav .navTabs > li .formWrapper form input:focus {
+  border-color: #f8ba01;
+}
+.pricingTable .pricingIcon {
+  border-color: #c59401;
+}
+/* border top */
+.mainNav .navTabs > li .dropDown {
+  border-top-color: #f8ba01;
+}
